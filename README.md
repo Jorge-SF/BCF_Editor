@@ -31,7 +31,7 @@ BCF scripts are plain-text files of conditional logic that assign values to bloc
 ## Usage
 
 ### In the browser
-Open the [live demo](https://<your-username>.github.io/bcf-script-editor/), or download `BCF_Editor.html` and open it locally. Everything runs client-side — nothing is uploaded, and it works offline.
+Open the [live demo](https://jorge-sf.github.io/BCF_Editor/), or download `BCF_Editor.html` and open it locally. Everything runs client-side — nothing is uploaded, and it works offline.
 
 1. Drag a `.txt` block-model header onto the editor to load your variable definitions.
 2. Write or open a `.bcf` script (`Ctrl+O`).
