@@ -7,7 +7,7 @@ A single-file, browser-based editor for writing, validating, and optimizing **Bl
 [![License: MIT](https://img.shields.io/badge/License-MIT-4D9D37.svg)](LICENSE)
 &nbsp;·&nbsp; Single file · No build · Runs offline in any modern browser
 
-**▶ [Try it live](https://jorge-sf.github.io/BCF_Editor/index.html)** &nbsp;·&nbsp; or download [`BCF_Editor.html`](BCF_Editor.html) and open it in a browser.
+**▶ [Try it live](https://jorge-sf.github.io/BCF_Editor/bcf_editor.html)** &nbsp;·&nbsp; or download [`BCF_Editor.html`](BCF_Editor.html) and open it in a browser.
 
 <!-- Drop a hero screenshot or short demo GIF here — docs/demo.gif — this is what makes the repo (and a LinkedIn post) land. -->
 
@@ -31,7 +31,7 @@ BCF scripts are plain-text files of conditional logic that assign values to bloc
 ## Usage
 
 ### In the browser
-Open the [live demo](https://jorge-sf.github.io/BCF_Editor/), or download `BCF_Editor.html` and open it locally. Everything runs client-side — nothing is uploaded, and it works offline.
+Open the [live demo](https://jorge-sf.github.io/BCF_Editor/bcf_editor.html), or download `BCF_Editor.html` and open it locally. Everything runs client-side — nothing is uploaded, and it works offline.
 
 1. Drag a `.txt` block-model header onto the editor to load your variable definitions.
 2. Write or open a `.bcf` script (`Ctrl+O`).
